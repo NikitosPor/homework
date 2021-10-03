@@ -10,17 +10,23 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  sqflite:
+  path:
+  path_provider:
+  mobx: 
+  flutter_mobx: 
   json_annotation: ^3.0.1
   http: ^0.12.2
   cupertino_icons: ^1.0.0
-  flutter_svg: ^0.18.1
+  flutter_svg:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   pedantic: ^1.9.0
-  build_runner: ^1.10.1
-  json_serializable: ^3.4.1
+  build_runner:
+  mobx_codegen:
+  json_serializable:
 
 flutter:
   uses-material-design: true

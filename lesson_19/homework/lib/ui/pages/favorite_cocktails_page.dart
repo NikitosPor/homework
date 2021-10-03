@@ -26,6 +26,8 @@ class FavouriteCocktailsPage extends StatefulWidget {
 }
 
 class _FavouriteCocktailsPageState extends State<FavouriteCocktailsPage> {
+  //final store = FavoriteCocktailStore();
+
   @override
   Widget build(BuildContext context) {
     return ApplicationScaffold(
